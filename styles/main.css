@@ -89,6 +89,7 @@ h2 {
 
 .numbers__item {
     display: flex;
+    align-items: center;
     gap: 20px;
     color: #fff;
 }
